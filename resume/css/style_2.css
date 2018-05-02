@@ -1,0 +1,24 @@
+*{
+    margin:0;
+}
+body{
+    margin:50px;
+}
+h1{
+    width:200px;
+    height:640px;
+    color:white;
+    background-color: cornflowerblue;
+    float: left;
+    text-align:center;
+    padding:50px 0 ;
+}
+.container{
+    padding:20px 220px;
+}
+div{
+    margin-bottom: 20px;
+}
+h3{
+    margin:10px 0;
+}

@@ -1,0 +1,38 @@
+*{
+    margin:0;
+}
+body{
+    margin:50px;
+    border:1px solid darkgray;
+    width:1000px;
+}
+h1{
+    width:960px;
+    height:80px;
+    color:white;
+    background-color:darkslategrey;
+    line-height: 80px;
+    padding:0 20px;
+}
+div{
+    width:800px;
+    height:150px;
+    margin:0 0 1px 0;
+
+}
+.div2{
+    padding:20px 170px;
+    border-top: darkgray solid 1px;
+    width:660px;
+}
+h2{
+    width:150px;
+    height:150px;
+    background-color:darkgray;
+    float: left;
+    line-height: 150px;
+    text-align: center;
+}
+h3{
+    display: inline;
+}
